@@ -18,7 +18,7 @@ header {
   max-width: 100%;
 }
 
-@media screen and (min-width: 428px) {
+@media screen and (min-width: 500px) {
   .title {
   font-family: "Shrikhand", serif;
   font-size: 5em;
