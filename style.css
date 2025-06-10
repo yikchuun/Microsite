@@ -203,7 +203,7 @@ nav {
   height: 640px;
 }
 
-@media (max-width: 428px) {
+@media (max-width: 375px) {
   .nav__examples {
     margin-top: 0;
     margin-left: 2rem;
